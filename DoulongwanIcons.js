@@ -6,7 +6,7 @@
 import createIconSet from './lib/create-icon-set';
 import glyphMap from './glyphmaps/DoulongwanIcons.json';
 
-const iconSet = createIconSet(glyphMap, 'DlwIcons', 'DoulongwanIcons.ttf');
+const iconSet = createIconSet(glyphMap, 'fontcustom', 'DoulongwanIcons.ttf');
 
 export default iconSet;
 
