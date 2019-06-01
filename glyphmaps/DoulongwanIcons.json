@@ -23,6 +23,7 @@
   "event-i-choose": 58919,
   "order-shipping": 58920,
   "wallet": 58921,
+  "wholesale-tab": 58922,
   "on-sale-tag": 58923,
   "settings": 58924,
   "wechat": 58925,
@@ -31,7 +32,6 @@
   "order-taking": 58929,
   "event-lottery": 58930,
   "forward-order": 58931,
-  "wholesale-tab": 58932,
   "retail-tag": 58933,
   "wholesale-tag": 58934,
 }
